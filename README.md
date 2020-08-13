@@ -25,8 +25,9 @@
 <img align="left" alt="angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="intellij" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="margin-right: 5px; margin-left: 5px"/>
+<img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" style="margin-right: 5px; margin-left: 5px"/>
 
 <br/>
 <br/>
 
-<img align="left" alt="HuyNVuong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HuyNVuong&show_icons=true&hide_border=true" />
+<img align="left" alt="HuyNVuong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HuyNVuong&show_icons=true&hide_border=true&count_private=true" />
