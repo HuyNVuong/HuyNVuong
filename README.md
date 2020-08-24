@@ -11,6 +11,8 @@
 
 [<img align="left" alt="HuyVuong | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-right: 5px; margin-left: 5px"/>](https://github.com/HuyNVuong/)
 
+[<img align="left" alt="HuyVuong | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="margin-right: 5px; margin-left: 5px"/>](mailto:huynguyenvuong99@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 <br/>
 
 ## I have been and currently working with
