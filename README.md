@@ -3,7 +3,7 @@
 ## Student | Software Developer | Full-Stack
 
 * :smile: He/Him/His
-* :house: I'm current working for [SpeedWay Motors](https://www.speedwaymotors.com/)
+* :house: I'm current working for [Speedway Motors](https://www.speedwaymotors.com/)
 
 ## Let's Connect
 
