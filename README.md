@@ -15,19 +15,25 @@
 
 <br/>
 
-## I have been and currently working with
+## Tech stack that I have been and currently working with
 
-<img align="left" alt="VS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="dotnet" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="graphql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="csharp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" style="margin-right: 5px; margin-left: 5px"/>
-<img align="left" alt="vscode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="react" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="typescript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" style="margin-right: 5px; margin-left: 5px"/>
-<img align="left" alt="intellij" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" style="margin-right: 5px; margin-left: 5px"/>
+
+<br/>
+<br/>
+
+## Operating system and tools that I use
+
+<img align="left" alt="VS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" style="margin-right: 5px; margin-left: 5px"/>
+<img align="left" alt="vscode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="margin-right: 5px; margin-left: 5px"/>
+<img align="left" alt="intellij" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" style="margin-right: 5px; margin-left: 5px"/>
 
 <br/>
 <br/>
