@@ -25,7 +25,7 @@
 <img align="left" alt="angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" style="margin-right: 5px; margin-left: 5px"/>
-
+<img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" style="margin-right: 5px; margin-left: 5px"/>
 
 <br/>
 <br/>
