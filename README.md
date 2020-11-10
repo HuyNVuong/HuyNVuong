@@ -20,14 +20,16 @@
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet">
   <img align="left" alt="dotnet" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" style="margin-right: 5px; margin-left: 5px"/>
 </a>
-<img align="left" alt="graphql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" style="margin-right: 5px; margin-left: 5px"/>
+<a href="https://graphql-dotnet.github.io/">
+  <img align="left" alt="graphql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" style="margin-right: 5px; margin-left: 5px"/>
+</a>
 <img align="left" alt="csharp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="react" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="typescript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" style="margin-right: 5px; margin-left: 5px"/>
-<img align="left" alt="golang" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" style="margin-right: 5px; margin-left: 5px"/>
+<img align="left" alt="mysql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" style="margin-right: 5px; margin-left: 5px"/>
 
 <br/>
 <br/>
