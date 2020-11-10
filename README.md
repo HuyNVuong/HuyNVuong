@@ -17,7 +17,9 @@
 
 ## Tech stack that I have been and currently working with
 
-<img align="left" alt="dotnet" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" style="margin-right: 5px; margin-left: 5px"/>
+<a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet">
+  <img align="left" alt="dotnet" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" style="margin-right: 5px; margin-left: 5px"/>
+</a>
 <img align="left" alt="graphql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="csharp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" style="margin-right: 5px; margin-left: 5px"/>
 <img align="left" alt="react" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="margin-right: 5px; margin-left: 5px"/>
