@@ -1,5 +1,7 @@
 # Hi, I'm Huy
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHuyNVuong%2FHuyNVu)
+
 ## Student | Software Developer | Full-Stack
 
 * :smile: He/Him/His
