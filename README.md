@@ -42,7 +42,10 @@
 <img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" style="margin-right: 5px; margin-left: 5px"/>
 
 <br/>
-<br/>
 
-<img align="left" alt="HuyNVuong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HuyNVuong&show_icons=true&hide_border=true&count_private=true&hide=stars" />
+<br>
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=HuyNVuong&theme=flat&no-frame=true&margin-w=30&hide=stars" />
+</div>
 
