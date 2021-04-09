@@ -44,4 +44,4 @@
 <br/>
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=HuyNVuong&theme=flat&no-frame=true&margin-w=50&hide=stars" />
+<img align="left" alt="HuyNVuong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HuyNVuong&show_icons=true&hide_border=true&count_private=true&hide=stars" />
