@@ -44,8 +44,4 @@
 <br/>
 
 <br>
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=HuyNVuong&theme=flat&no-frame=true&margin-w=30&hide=stars" />
-</div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=HuyNVuong&theme=flat&no-frame=true&margin-w=50&hide=stars" />
