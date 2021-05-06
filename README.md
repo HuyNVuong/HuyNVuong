@@ -1,9 +1,9 @@
 # Hi, I'm Huy
 
-## Student | Software Developer | Full-Stack
+## Student | Web Developer | Full-Stack
 
 * :smile: He/Him/His
-* :house: I'm current working for [Speedway Motors](https://www.speedwaymotors.com/)
+* :house: I'm current working as Web Developer at [Speedway Motors](https://www.speedwaymotors.com/)
 
 ## Let's Connect
 
