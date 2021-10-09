@@ -3,7 +3,7 @@
 ## Student | Web Developer | Full-Stack
 
 * :smile: He/Him/His
-* :house: I'm current working as Web Developer at [Speedway Motors](https://www.speedwaymotors.com/)
+* :house: I'm currently working as L3 Software Engineer at Google
 
 ## Let's Connect
 
